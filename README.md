@@ -1,4 +1,4 @@
-# Madge PereirA | Front-End Developer |
+# Madge Pereira | Front-End Developer |
 
 <!--
 **madgepereira020701/madgepereira020701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, i'm Madge Pereira, a passionate frontend developer from Goa, India. 
+<br>
+- Email me: [madgepereira020701@gmail.com](mailto:madgepereira020701@gmail.com)
+<br>
   
 # Languages and Tools
 
