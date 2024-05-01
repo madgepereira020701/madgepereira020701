@@ -35,7 +35,7 @@ Hi, i'm Madge Pereira, a passionate frontend developer from Goa, India.
 
 # Find me on
 <p align="left">
-<a href="https://www.linkedin.com/in/madge-pereira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janardan-keny" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/madge-pereira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madge-pereira" height="50" /></a>
 <!--<a href="https://instagram.com/janardankeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janardankeny" height="30" width="40" /></a>-->
 </p>
 
