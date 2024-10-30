@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, i'm Madge Pereira, a passionate frontend developer from Goa, India. 
+Hi, I'm Madge Pereira, a passionate frontend developer from Goa, India. 
 <br>
 - Reach me at: [madgepereira020701@gmail.com](mailto:madgepereira020701@gmail.com)
 
