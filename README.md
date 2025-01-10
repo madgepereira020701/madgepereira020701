@@ -1,4 +1,4 @@
-# Madge Pereira | Web Developer |
+# Madge Pereira | Full Stack Web Developer |
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
