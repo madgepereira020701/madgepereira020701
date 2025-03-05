@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Madge Pereira, a passionate Web Developer from Goa, India. 
 <br>
-- Reach me at: [madgepereira020701@gmail.com](mailto:madgepereira020701@gmail.com)
+- Email: [madgepereira020701@gmail.com](mailto:madgepereira020701@gmail.com)
 
 # Languages and Tools
 
